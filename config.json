@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "python-functions",
+      "title": "Python Functions",
+      "description": "Defining and using functions in Python",
+      "path": "assignments/python-functions",
+      "dueDate": "2026-03-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
