@@ -24,7 +24,14 @@
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
-      "dueDate": "2026-02-07"
+      "dueDate": "2026-02-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     },
     {
       "id": "python-classes",
