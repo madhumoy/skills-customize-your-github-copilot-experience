@@ -102,6 +102,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-statistics",
+      "title": "Statistics with Python",
+      "description": "Basic statistical calculations and data analysis using pandas and numpy",
+      "path": "assignments/python-statistics",
+      "dueDate": "2026-05-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
